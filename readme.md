@@ -2,4 +2,4 @@
 
 Esta serie de libros cuentan la historia de un hacker de los que hay pocos.
 
-** Human José**, Larry Plotter lover
+**Human José**, Larry Plotter lover
